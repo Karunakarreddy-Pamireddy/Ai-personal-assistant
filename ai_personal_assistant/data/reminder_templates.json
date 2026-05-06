@@ -1,0 +1,103 @@
+{
+    "reminder_templates": [
+        {
+            "id": "leetcode_daily",
+            "title": "LeetCode Daily Challenge",
+            "default_time": "9PM",
+            "priority": "high",
+            "category": "coding"
+        },
+        {
+            "id": "dsa_practice",
+            "title": "DSA Practice Session",
+            "default_time": "8PM",
+            "priority": "high",
+            "category": "coding"
+        },
+        {
+            "id": "placement_prep",
+            "title": "Placement Preparation",
+            "default_time": "7AM",
+            "priority": "high",
+            "category": "placement"
+        },
+        {
+            "id": "mongodb_project",
+            "title": "MongoDB Project Work",
+            "default_time": "3PM",
+            "priority": "medium",
+            "category": "project"
+        },
+        {
+            "id": "system_design",
+            "title": "System Design Study",
+            "default_time": "4PM",
+            "priority": "medium",
+            "category": "study"
+        }
+    ],
+    "quick_commands": [
+        "LeetCode practice 9PM today",
+        "DSA revision tomorrow 7AM",
+        "MongoDB project Friday 3PM",
+        "Placement prep meeting 5PM",
+        "System design study Saturday 2PM"
+    ],
+    "priority_keywords": {
+        "high": [
+            "urgent",
+            "important",
+            "placement",
+            "interview",
+            "deadline"
+        ],
+        "medium": [
+            "project",
+            "practice",
+            "study",
+            "review"
+        ],
+        "low": [
+            "optional",
+            "if time",
+            "casual"
+        ]
+    },
+    "category_keywords": {
+        "coding": [
+            "leetcode",
+            "dsa",
+            "algorithm",
+            "coding",
+            "practice"
+        ],
+        "placement": [
+            "placement",
+            "interview",
+            "resume",
+            "hr",
+            "technical"
+        ],
+        "project": [
+            "project",
+            "mongodb",
+            "build",
+            "develop",
+            "deploy"
+        ],
+        "study": [
+            "study",
+            "learn",
+            "revision",
+            "notes",
+            "concepts"
+        ],
+        "meeting": [
+            "meeting",
+            "discuss",
+            "call",
+            "sync",
+            "standup"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+timezone: Asia/Kolkata
+user_name: Vijayawada CS Student
+location: Vijayawada, India
+
+# Student preferences
+preferences:
+  focus_areas:
+    - LeetCode practice
+    - DSA preparation
+    - MongoDB projects
+    - Campus placements
+    - System design
+  
+  typical_schedule:
+    morning_study: "7AM - 9AM"
+    coding_practice: "9PM - 11PM"
+    project_time: "3PM - 5PM"
+    weekend_prep: "Saturday intensive"
+  
+  reminder_defaults:
+    leetcode_time: "9PM"
+    morning_prep: "7AM"
+    project_check: "3PM"
+  
+  categories:
+    coding: 
+      emoji: "💻"
+      priority: high
+    placement:
+      emoji: "🎯"
+      priority: high
+    project:
+      emoji: "📦"
+      priority: medium
+    study:
+      emoji: "📚"
+      priority: medium
+    meeting:
+      emoji: "🤝"
+      priority: medium
